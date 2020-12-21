@@ -1,0 +1,11 @@
+C:\Users\ment2\source\repos\GOF\lab6\Decorator\Decorator\obj\Debug\netcoreapp3.1\Decorator.csprojAssemblyReference.cache
+C:\Users\ment2\source\repos\GOF\lab6\Decorator\Decorator\obj\Debug\netcoreapp3.1\Decorator.AssemblyInfoInputs.cache
+C:\Users\ment2\source\repos\GOF\lab6\Decorator\Decorator\obj\Debug\netcoreapp3.1\Decorator.AssemblyInfo.cs
+C:\Users\ment2\source\repos\GOF\lab6\Decorator\Decorator\bin\Debug\netcoreapp3.1\Decorator.exe
+C:\Users\ment2\source\repos\GOF\lab6\Decorator\Decorator\bin\Debug\netcoreapp3.1\Decorator.deps.json
+C:\Users\ment2\source\repos\GOF\lab6\Decorator\Decorator\bin\Debug\netcoreapp3.1\Decorator.runtimeconfig.json
+C:\Users\ment2\source\repos\GOF\lab6\Decorator\Decorator\bin\Debug\netcoreapp3.1\Decorator.runtimeconfig.dev.json
+C:\Users\ment2\source\repos\GOF\lab6\Decorator\Decorator\bin\Debug\netcoreapp3.1\Decorator.dll
+C:\Users\ment2\source\repos\GOF\lab6\Decorator\Decorator\bin\Debug\netcoreapp3.1\Decorator.pdb
+C:\Users\ment2\source\repos\GOF\lab6\Decorator\Decorator\obj\Debug\netcoreapp3.1\Decorator.dll
+C:\Users\ment2\source\repos\GOF\lab6\Decorator\Decorator\obj\Debug\netcoreapp3.1\Decorator.pdb
