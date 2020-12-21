@@ -1,0 +1,11 @@
+C:\Users\ment2\source\repos\GOF\lab3\factory\task\bin\Debug\netcoreapp3.1\task.exe
+C:\Users\ment2\source\repos\GOF\lab3\factory\task\bin\Debug\netcoreapp3.1\task.deps.json
+C:\Users\ment2\source\repos\GOF\lab3\factory\task\bin\Debug\netcoreapp3.1\task.runtimeconfig.json
+C:\Users\ment2\source\repos\GOF\lab3\factory\task\bin\Debug\netcoreapp3.1\task.runtimeconfig.dev.json
+C:\Users\ment2\source\repos\GOF\lab3\factory\task\bin\Debug\netcoreapp3.1\task.dll
+C:\Users\ment2\source\repos\GOF\lab3\factory\task\bin\Debug\netcoreapp3.1\task.pdb
+C:\Users\ment2\source\repos\GOF\lab3\factory\task\obj\Debug\netcoreapp3.1\task.csprojAssemblyReference.cache
+C:\Users\ment2\source\repos\GOF\lab3\factory\task\obj\Debug\netcoreapp3.1\task.AssemblyInfoInputs.cache
+C:\Users\ment2\source\repos\GOF\lab3\factory\task\obj\Debug\netcoreapp3.1\task.AssemblyInfo.cs
+C:\Users\ment2\source\repos\GOF\lab3\factory\task\obj\Debug\netcoreapp3.1\task.dll
+C:\Users\ment2\source\repos\GOF\lab3\factory\task\obj\Debug\netcoreapp3.1\task.pdb
