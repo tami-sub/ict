@@ -1,0 +1,11 @@
+C:\Users\ment2\source\repos\GOF\lab6\Benders\Benders\bin\Debug\netcoreapp3.1\Benders.exe
+C:\Users\ment2\source\repos\GOF\lab6\Benders\Benders\bin\Debug\netcoreapp3.1\Benders.deps.json
+C:\Users\ment2\source\repos\GOF\lab6\Benders\Benders\bin\Debug\netcoreapp3.1\Benders.runtimeconfig.json
+C:\Users\ment2\source\repos\GOF\lab6\Benders\Benders\bin\Debug\netcoreapp3.1\Benders.runtimeconfig.dev.json
+C:\Users\ment2\source\repos\GOF\lab6\Benders\Benders\bin\Debug\netcoreapp3.1\Benders.dll
+C:\Users\ment2\source\repos\GOF\lab6\Benders\Benders\bin\Debug\netcoreapp3.1\Benders.pdb
+C:\Users\ment2\source\repos\GOF\lab6\Benders\Benders\obj\Debug\netcoreapp3.1\Benders.csprojAssemblyReference.cache
+C:\Users\ment2\source\repos\GOF\lab6\Benders\Benders\obj\Debug\netcoreapp3.1\Benders.AssemblyInfoInputs.cache
+C:\Users\ment2\source\repos\GOF\lab6\Benders\Benders\obj\Debug\netcoreapp3.1\Benders.AssemblyInfo.cs
+C:\Users\ment2\source\repos\GOF\lab6\Benders\Benders\obj\Debug\netcoreapp3.1\Benders.dll
+C:\Users\ment2\source\repos\GOF\lab6\Benders\Benders\obj\Debug\netcoreapp3.1\Benders.pdb
